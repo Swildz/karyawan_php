@@ -14,10 +14,9 @@
             <div class="col-md">
                 <form action="" method="post" role="form" class="form-signin">
                     <h1 class="h3 mb-3 font-weight-normal">Please Sign In</h1>
-                    <!-- <label for="inputUser"></label> -->
+                    
                     <input type="text" name="username" id="inputUser" class="form-control" placeholder="Username" required autofocus>
-
-                    <!-- <label for="inputPass"></label> -->
+                    
                     <input type="password" name="password" id="inputPass" class="form-control" placeholder="Password" required>
 
                     <label for=""></label>
