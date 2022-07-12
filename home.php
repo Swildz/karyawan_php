@@ -9,18 +9,9 @@
 </div><br>
 
 <p>
-	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</p>
-<p>
-	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	I’am a diligent professional who has been consistently praised as hard-worker by my co-workers and 
+	management. Over the course of my 2 year career, I’ve the develop a skill set direcly relevant to the 
+	Software Engineer role you are hiring for including programming. Overall, I have consistently 
+	demonstrated technical, communication and creative thinking abilities in every aspect of my software 
+	engineer role at shopee, and I invite you to review my detailed achievments in the attached resume.
 </p>
