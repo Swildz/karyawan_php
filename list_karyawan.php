@@ -1,6 +1,6 @@
 <div class="col-sm" style="padding-top: 20px">
     <h2>Search Karyawan</h2>
-    <a href=?p=search_karyawan class="search"><img src="icons/search.svg"> Search Karyawan</a><br>
+    <td align="center"><a href=?p=search_karyawan class="search"><img src="icons/search.svg"> Search Karyawan</a><br></td>
 	<h2>List Karyawan</h2>
 	<a href=?p=entri_karyawan class="btn btn-primary"><img src="icons/plus.svg"> Entri Karyawan</a><br>
 	<p>
@@ -10,7 +10,6 @@
 					<th>No</th>
 					<th>NIK</th>
 					<th>Nama Lengkap</th>
-					<!-- <th>Umur</th> -->
 					<th>Tanggal Lahir</th>
 					<th>Jenis Kelamin</th>
                     <th>Alamat</th>
